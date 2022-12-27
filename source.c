@@ -1,5 +1,5 @@
 #include<stdio.h>
 void Salutation()
 {
-	printf("\nRidouane: salut tout le monde, je suis ravi d'être avec vous !");
+	printf("\nRidouane: salut à vous, je suis content que vous ayez lu ce message :)!");
 }
